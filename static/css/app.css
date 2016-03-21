@@ -38,3 +38,17 @@ img {
   }
 }
 
+/*****************************
+ ~~ Woocommerce (reset)
+*****************************/
+
+pre{
+  padding: none;
+  margin: none;
+  background: transparent;
+  border: none;
+}
+
+ul.products li{
+  list-style: none;
+}
